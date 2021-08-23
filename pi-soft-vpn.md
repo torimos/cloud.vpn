@@ -63,7 +63,7 @@ ipsec restart
 
 ```
 
-## StrongSwan service setup & configuration for point-to-site connection (to local von)
+## StrongSwan service setup & configuration for point-to-site connection (to local vpn)
 ```
 
 # create folders
